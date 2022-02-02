@@ -1,6 +1,14 @@
 # SE2-R1-SPG
 
 Second project for Software Enineering II at PoliTo, group R1
+A web application that allows customers to buy local products from local farmers.
+
+Documentation:
+https://samuelegigante.gitbook.io/oner-spg/the-company/meet-the-team
+https://spg-1.gitbook.io/spg-documentation/
+
+Video Presentation:
+https://www.youtube.com/watch?v=RHDZ7mqlIv0&ab_channel=FreeTravel
 
 ----------
 
